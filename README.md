@@ -52,6 +52,4 @@ O projeto **"Obtendo o Resto de uma Divisão"** exemplifica a aplicação de ope
 - **Conversão de Tipos:** Transformação de valores de `string` para `int` para realizar operações matemáticas.
 - **Uso do Operador Módulo (`%`):** Cálculo do resto da divisão entre dois números inteiros.
 
-Esse projeto é um excelente ponto de partida para iniciantes que desejam explorar a manipulação de dados numéricos e interações básicas no **.NET Framework**.
-
 ---
