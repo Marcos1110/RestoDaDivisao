@@ -21,8 +21,8 @@ O objetivo principal desta aplicação é permitir que o usuário informe dois v
 ### Processo de Cálculo do Resto da Divisão
 
 <div align="center">
-    <img src="/assets-git/resto-divisao-1.png" width="300" alt="Valores informados pelo usuário">
-    <img src="/assets-git/resto-divisao-2.png" width="300" alt="Resultado do cálculo">
+    <img src="/assets-git/resto-da-divisao-1.png width="300" alt="Valores informados pelo usuário">
+    <img src="/assets-git/resto-da-divisao-2.png" width="300" alt="Resultado do cálculo">
 </div>
 
 ---
@@ -55,5 +55,3 @@ O projeto **"Obtendo o Resto de uma Divisão"** exemplifica a aplicação de ope
 Esse projeto é um excelente ponto de partida para iniciantes que desejam explorar a manipulação de dados numéricos e interações básicas no **.NET Framework**.
 
 ---
-
-📌 **Sinta-se à vontade para explorar, modificar e contribuir!** 🚀
