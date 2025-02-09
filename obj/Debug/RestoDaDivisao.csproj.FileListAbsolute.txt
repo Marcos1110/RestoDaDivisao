@@ -1,0 +1,10 @@
+C:\Users\marco\OneDrive\Documentos\Programacao\CSharp\SolucaoCapitulo01\RestoDaDivisao\bin\Debug\RestoDaDivisao.exe.config
+C:\Users\marco\OneDrive\Documentos\Programacao\CSharp\SolucaoCapitulo01\RestoDaDivisao\bin\Debug\RestoDaDivisao.exe
+C:\Users\marco\OneDrive\Documentos\Programacao\CSharp\SolucaoCapitulo01\RestoDaDivisao\bin\Debug\RestoDaDivisao.pdb
+C:\Users\marco\OneDrive\Documentos\Programacao\CSharp\SolucaoCapitulo01\RestoDaDivisao\obj\Debug\RestoDaDivisao.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Documentos\Programacao\CSharp\SolucaoCapitulo01\RestoDaDivisao\obj\Debug\RestoDaDivisao.frmRestoDeDivisao.resources
+C:\Users\marco\OneDrive\Documentos\Programacao\CSharp\SolucaoCapitulo01\RestoDaDivisao\obj\Debug\RestoDaDivisao.Properties.Resources.resources
+C:\Users\marco\OneDrive\Documentos\Programacao\CSharp\SolucaoCapitulo01\RestoDaDivisao\obj\Debug\RestoDaDivisao.csproj.GenerateResource.cache
+C:\Users\marco\OneDrive\Documentos\Programacao\CSharp\SolucaoCapitulo01\RestoDaDivisao\obj\Debug\RestoDaDivisao.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documentos\Programacao\CSharp\SolucaoCapitulo01\RestoDaDivisao\obj\Debug\RestoDaDivisao.exe
+C:\Users\marco\OneDrive\Documentos\Programacao\CSharp\SolucaoCapitulo01\RestoDaDivisao\obj\Debug\RestoDaDivisao.pdb
