@@ -18,13 +18,6 @@ O objetivo principal desta aplicação é permitir que o usuário informe dois v
 - Utilização do operador `%` para obter o resto da divisão.
 - Exibição de resultados processados dinamicamente na interface gráfica.
 
-### Processo de Cálculo do Resto da Divisão
-
-<div align="center">
-    <img src="/assets-git/resto-da-divisao-1.png" width="300" alt="Valores informados pelo usuário">
-    <img src="/assets-git/resto-da-divisao-2.png" width="300" alt="Resultado do cálculo">
-</div>
-
 ---
 
 ## 3. Funcionalidades
@@ -33,6 +26,13 @@ O objetivo principal desta aplicação é permitir que o usuário informe dois v
 ✅ Calcular e exibir o resto da divisão entre os números informados.  
 ✅ Demonstrar o uso de operadores matemáticos e conversão de dados.  
 ✅ Configurar propriedades visuais, como desabilitar a edição do campo de resultado.
+
+### Processo de Cálculo do Resto da Divisão
+
+<div align="center">
+    <img src="/assets-git/resto-da-divisao-1.png" width="300" alt="Valores informados pelo usuário">
+    <img src="/assets-git/resto-da-divisao-2.png" width="300" alt="Resultado do cálculo">
+</div>
 
 ---
 
